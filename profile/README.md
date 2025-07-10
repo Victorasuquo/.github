@@ -83,12 +83,12 @@ I'm a passionate **Artificial Intelligence and Machine Learning Engineer** with 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1&sideNums=FFFFFF&sideLabels=6366F1&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Victorasuquo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victorasuquo&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1&sideNums=FFFFFF&sideLabels=6366F1&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorasuquo&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 ---
@@ -100,8 +100,8 @@ I'm a passionate **Artificial Intelligence and Machine Learning Engineer** with 
     <td width="50%">
       <h3 align="center">🤖 AI-Powered Recommendation System</h3>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/recommendation-system" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=recommendation-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" width="100%" alt="Recommendation System"/>
+        <a href="https://github.com/Victorasuquo/recommendation-system" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victorasuquo&repo=recommendation-system&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" width="100%" alt="Recommendation System"/>
         </a>
       </p>
       <p align="center">
@@ -111,8 +111,8 @@ I'm a passionate **Artificial Intelligence and Machine Learning Engineer** with 
     <td width="50%">
       <h3 align="center">📊 Real-time Data Analytics Platform</h3>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/analytics-platform" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=analytics-platform&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" width="100%" alt="Analytics Platform"/>
+        <a href="https://github.com/Victorasuquo/analytics-platform" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victorasuquo&repo=analytics-platform&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" width="100%" alt="Analytics Platform"/>
         </a>
       </p>
       <p align="center">
@@ -124,8 +124,8 @@ I'm a passionate **Artificial Intelligence and Machine Learning Engineer** with 
     <td width="50%">
       <h3 align="center">🔍 Computer Vision Pipeline</h3>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/computer-vision-pipeline" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=computer-vision-pipeline&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" width="100%" alt="Computer Vision Pipeline"/>
+        <a href="https://github.com/Victorasuquo/computer-vision-pipeline" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victorasuquo&repo=computer-vision-pipeline&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" width="100%" alt="Computer Vision Pipeline"/>
         </a>
       </p>
       <p align="center">
@@ -135,8 +135,8 @@ I'm a passionate **Artificial Intelligence and Machine Learning Engineer** with 
     <td width="50%">
       <h3 align="center">🧠 NLP Research Toolkit</h3>
       <p align="center">
-        <a href="https://github.com/YOUR_USERNAME/nlp-toolkit" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=nlp-toolkit&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" width="100%" alt="NLP Toolkit"/>
+        <a href="https://github.com/Victorasuquo/nlp-toolkit" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Victorasuquo&repo=nlp-toolkit&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" width="100%" alt="NLP Toolkit"/>
         </a>
       </p>
       <p align="center">
@@ -151,7 +151,7 @@ I'm a passionate **Artificial Intelligence and Machine Learning Engineer** with 
 ## 📈 Recent Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=radical&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&area_color=6366F1" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Victorasuquo&theme=radical&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&area_color=6366F1" alt="Activity Graph" />
 </div>
 
 ---
@@ -208,16 +208,16 @@ I'm a passionate **Artificial Intelligence and Machine Learning Engineer** with 
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/Victorasuquo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+  <a href="https://twitter.com/Victorasuquo" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://medium.com/@YOUR_USERNAME" target="_blank">
+  <a href="https://medium.com/@Victorasuquo" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="https://kaggle.com/YOUR_USERNAME" target="_blank">
+  <a href="https://kaggle.com/Victorasuquo" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
   <a href="mailto:your.email@example.com">
@@ -248,7 +248,7 @@ I'm a passionate **Artificial Intelligence and Machine Learning Engineer** with 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6366F1" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Victorasuquo&style=flat-square&color=6366F1" alt="Profile Views" />
   
   <p><em>"The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt</em></p>
   
